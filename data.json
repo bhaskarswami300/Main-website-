@@ -1,0 +1,278 @@
+{
+  "servers": {
+    "Hacker": {
+      "name": "Hacker",
+      "owner": "hacker",
+      "runtime": "python",
+      "status": "running",
+      "main_file": "",
+      "main_command": "",
+      "port": 8080,
+      "packages": [],
+      "pid": 3432,
+      "created": "2026-06-11T15:19:25.194894",
+      "auto_reset": {
+        "enabled": true,
+        "years": 0,
+        "days": 0,
+        "hours": 10,
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "Python": {
+      "name": "Python",
+      "owner": "hacker",
+      "runtime": "python",
+      "status": "running",
+      "main_file": "",
+      "main_command": "",
+      "port": 8080,
+      "packages": [],
+      "pid": 3420,
+      "created": "2026-06-11T15:22:19.977859",
+      "auto_reset": {
+        "enabled": true,
+        "years": 0,
+        "days": 0,
+        "hours": 10,
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "Tg-bot": {
+      "name": "Tg-bot",
+      "owner": "Name default",
+      "runtime": "python",
+      "status": "stopped",
+      "main_file": "",
+      "main_command": "",
+      "port": 8080,
+      "packages": [],
+      "pid": null,
+      "created": "2026-06-11T20:20:40.510829",
+      "auto_reset": {
+        "enabled": false,
+        "years": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "Testing": {
+      "name": "Testing",
+      "owner": "zozo",
+      "runtime": "python",
+      "status": "running",
+      "main_file": "main.py",
+      "main_command": "",
+      "port": 8080,
+      "packages": [],
+      "pid": 3477,
+      "created": "2026-06-13T10:27:58.290343",
+      "auto_reset": {
+        "enabled": false,
+        "years": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "Dd": {
+      "name": "Dd",
+      "owner": "kirankarki1162@gmail.com",
+      "runtime": "python",
+      "status": "running",
+      "main_file": "main.py",
+      "main_command": "",
+      "port": 8080,
+      "packages": [],
+      "pid": 3439,
+      "created": "2026-06-13T10:37:56.627361",
+      "auto_reset": {
+        "enabled": false,
+        "years": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "PRIME": {
+      "name": "PRIME",
+      "owner": "prime",
+      "runtime": "python",
+      "status": "stopped",
+      "main_file": "",
+      "main_command": "",
+      "port": 8080,
+      "packages": [],
+      "pid": null,
+      "created": "2026-06-13T11:14:42.546369",
+      "auto_reset": {
+        "enabled": false,
+        "years": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "Tcp": {
+      "name": "Tcp",
+      "owner": "ffff",
+      "runtime": "python",
+      "status": "stopped",
+      "main_file": "",
+      "main_command": "",
+      "port": 8080,
+      "packages": [],
+      "pid": null,
+      "created": "2026-06-13T11:24:41.227468",
+      "auto_reset": {
+        "enabled": false,
+        "years": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "LIKEBOT": {
+      "name": "LIKEBOT",
+      "owner": "ardo",
+      "runtime": "python",
+      "status": "running",
+      "main_file": "bot.py",
+      "main_command": "python bot.py",
+      "port": 8080,
+      "packages": [],
+      "pid": 3602,
+      "created": "2026-06-13T11:29:54.826691",
+      "auto_reset": {
+        "enabled": false,
+        "years": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "Testing-around": {
+      "name": "Testing-around",
+      "owner": "zozo",
+      "runtime": "python",
+      "status": "running",
+      "main_file": "main(1).py",
+      "main_command": "",
+      "port": 8080,
+      "packages": [],
+      "pid": 3515,
+      "created": "2026-06-13T11:43:50.414301",
+      "auto_reset": {
+        "enabled": false,
+        "years": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "Asd": {
+      "name": "KALI",
+      "owner": "TECHNICAL KALI",
+      "runtime": "python",
+      "status": "running",
+      "main_file": "main.py",
+      "main_command": "",
+      "port": 8080,
+      "packages": [],
+      "pid": 3665,
+      "created": "2026-06-13T12:44:49.232378",
+      "auto_reset": {
+        "enabled": false,
+        "years": 0,
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      }
+    }
+  },
+  "users": {
+    "00": {
+      "joined": "2026-06-11T09:33:04.513891",
+      "password_hash": "f1534392279bddbf9d43dde8701cb5be14b82f76ec6607bf8d6ad557f60f304e"
+    },
+    "ahha": {
+      "joined": "2026-06-11T15:16:21.455459",
+      "password_hash": "4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8"
+    },
+    "hacker": {
+      "joined": "2026-06-11T15:19:15.940645",
+      "password_hash": "f1534392279bddbf9d43dde8701cb5be14b82f76ec6607bf8d6ad557f60f304e"
+    },
+    "Name default": {
+      "joined": "2026-06-11T18:33:35.675520",
+      "password_hash": "4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8"
+    },
+    "U": {
+      "joined": "2026-06-12T17:43:17.987124",
+      "password_hash": "f1534392279bddbf9d43dde8701cb5be14b82f76ec6607bf8d6ad557f60f304e"
+    },
+    "2626": {
+      "joined": "2026-06-13T04:28:48.403261",
+      "password_hash": "f1534392279bddbf9d43dde8701cb5be14b82f76ec6607bf8d6ad557f60f304e"
+    },
+    "nxt": {
+      "joined": "2026-06-13T07:53:13.179928",
+      "password_hash": "f1534392279bddbf9d43dde8701cb5be14b82f76ec6607bf8d6ad557f60f304e"
+    },
+    "zozo": {
+      "joined": "2026-06-13T09:38:06.924686",
+      "password_hash": "f1534392279bddbf9d43dde8701cb5be14b82f76ec6607bf8d6ad557f60f304e"
+    },
+    "99": {
+      "joined": "2026-06-13T10:33:41.683475",
+      "password_hash": "f1534392279bddbf9d43dde8701cb5be14b82f76ec6607bf8d6ad557f60f304e"
+    },
+    "kirankarki1162@gmail.com": {
+      "joined": "2026-06-13T10:37:44.667348",
+      "password_hash": "f1534392279bddbf9d43dde8701cb5be14b82f76ec6607bf8d6ad557f60f304e"
+    },
+    "ardo": {
+      "joined": "2026-06-13T11:09:27.340082",
+      "password_hash": "f1534392279bddbf9d43dde8701cb5be14b82f76ec6607bf8d6ad557f60f304e"
+    },
+    "prime": {
+      "joined": "2026-06-13T11:14:30.501876",
+      "password_hash": "f1534392279bddbf9d43dde8701cb5be14b82f76ec6607bf8d6ad557f60f304e"
+    },
+    "ffff": {
+      "joined": "2026-06-13T11:24:31.428772",
+      "password_hash": "f1534392279bddbf9d43dde8701cb5be14b82f76ec6607bf8d6ad557f60f304e"
+    },
+    "rifat": {
+      "joined": "2026-06-13T11:34:58.740646",
+      "password_hash": "f1534392279bddbf9d43dde8701cb5be14b82f76ec6607bf8d6ad557f60f304e"
+    },
+    "abhi": {
+      "joined": "2026-06-13T11:38:46.901242",
+      "password_hash": "f1534392279bddbf9d43dde8701cb5be14b82f76ec6607bf8d6ad557f60f304e"
+    },
+    "asdbhai": {
+      "joined": "2026-06-13T12:43:20.771696",
+      "password_hash": "f1534392279bddbf9d43dde8701cb5be14b82f76ec6607bf8d6ad557f60f304e"
+    }
+  },
+  "settings": {
+    "maintenance": false,
+    "maintenance_msg": "System under maintenance.",
+    "theme_color": "#38bdf8",
+    "admin_password": "bhaskar@123",
+    "normal_password": "00",
+    "site_name": "TECHNICAL KALI"
+  }
+}
